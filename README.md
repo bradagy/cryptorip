@@ -1,6 +1,4 @@
 # cryptorip
-
-## Description
 Cryptorip is a CLI utility that will fetch the recent prices of 3 different cryptocurrencies: **Bitcoin, Litecoin, and Ethereum.**
 
 ### How to run cryptorip
@@ -13,6 +11,4 @@ python3 cryptorip.py --ltc
 python3 cryptorip.py --eth
 python3 cryptorip.py --h or --help
 ```
-
-![cryptorip flag output](https://imgur.com/L9MiIpk)
 
