@@ -26,5 +26,3 @@ elif args.ltcprice:
     ltcprice()
 elif args.ethprice:
     ethprice()
-
-
