@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# This program fetches the current price of Bitcoin, Litecoin, and Ethereum.
-
 
 import argparse
 
