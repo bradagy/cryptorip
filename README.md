@@ -1,7 +1,7 @@
 # cryptorip
-Cryptorip is a CLI utility that will fetch the recent prices of 3 different cryptocurrencies: **Bitcoin, Litecoin, and Ethereum.**
+I wanted to fetch the recent prices of 3 different cryptocurrencies when I was on my computer, so I created this program. This program will fetch 3 crpytocurrencies: **Bitcoin, Litecoin, and Ethereum.**
 
-### How to run cryptorip
+### Flags
 - Cryptorip has 3 flags associated with the program to fetch the prices of the cryptocurrencies.
 
 - In order to find the recent prices of the three different cryptocurrencies, you will need to run the program with the associated flags listed below.
